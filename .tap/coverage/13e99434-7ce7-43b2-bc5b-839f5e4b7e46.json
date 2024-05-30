@@ -1,0 +1,62 @@
+{
+  "result": [
+    {
+      "scriptId": "632",
+      "url": "file:///Users/reggi/Desktop/demo-tap-istanbul-ignore-issue/alpha.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 100,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "alpha",
+          "ranges": [
+            {
+              "startOffset": 33,
+              "endOffset": 67,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "633",
+      "url": "file:///Users/reggi/Desktop/demo-tap-istanbul-ignore-issue/beta.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 85,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "beta",
+          "ranges": [
+            {
+              "startOffset": 28,
+              "endOffset": 61,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        }
+      ]
+    }
+  ],
+  "timestamp": 75979.566876,
+  "source-map-cache": {}
+}

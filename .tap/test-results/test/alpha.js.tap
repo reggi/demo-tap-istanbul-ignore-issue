@@ -1,0 +1,7 @@
+TAP version 14
+# Subtest: alpha
+    ok 1 - should be equal
+    1..1
+ok 1 - alpha # time=1.822ms
+
+1..1

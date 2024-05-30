@@ -1,0 +1,15 @@
+{
+  "name": "demo-tap-istanbul-ignore-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --show-full-coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tap": "^19.0.2"
+  }
+}
